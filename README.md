@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm PNNH</h1>
 
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=pnnh alt=pnnh/></p>
 
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about ... **Full Stack Develpoment**
 - 😄 Employement ... **Not looking for a job**
 - ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **xspanni@gmail.com**
-
 
 
 ### Languages and Tools:
